@@ -19,3 +19,4 @@ https://api.cal-adapt.org/tiles/tasmax_year_CNRM-CM5_rcp85_2006/{z}/{x}/{y}.png
 
 * Repository: 
 https://github.com/Celiasz/Data/blob/main/tasmax_day_CMCC-CMS_rcp85.csv
+https://github.com/Celiasz/Data/blob/main/tasmax_year_CMCC-CMS_rcp85.csv
