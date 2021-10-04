@@ -6,7 +6,7 @@
 
 * Source: https://data.lacounty.gov/Sustainability/Cooling-Centers-in-LA-County-2019-/545q-nnas
 
-* Repository: 
+* Repository: https://github.com/Celiasz/Data/blob/main/Cooling_Centers_in_LA_County__2019_.csv
 
 **Climate Projections**
 
