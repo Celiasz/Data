@@ -8,7 +8,7 @@
 
 * Repository: https://github.com/Celiasz/Data/blob/main/Cooling_Centers_in_LA_County__2019_.csv
 
-**LOCA daily maximum temperature CMCC-CMS RCP 8.5**
+**LOCA daily maximum temperature CMCC-CMS RCP 8.5** and 
 **LOCA yearly average maximum temperature CMCC-CMS RCP 8.5**
 
 * The CMCC model is used by the IPCC 5th assessment model to see the projections in scenario for monthly, seasonal and yearly temperature (maximum and minimum). The data includes California data using the RCP 8.5 greenhouse gas concentration trajectory at its worst case scenario.  
